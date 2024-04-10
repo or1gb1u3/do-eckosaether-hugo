@@ -1,1 +1,4 @@
 [submodule "themes/black-and-light"]
+[submodule "themes"]
+	path = themes
+	url = https://github.com/dillonzq/LoveIt
