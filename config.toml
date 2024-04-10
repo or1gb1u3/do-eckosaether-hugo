@@ -1,9 +1,9 @@
 theme = "black-and-light"
 relativeURLs = true
 baseURL = "/"
-title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+title = "Eckos Aether"
+author = "Jolly Hobbler"
+copyright = "Copyright © 2008–2024, Jolly; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
